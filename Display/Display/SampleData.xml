@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contacts>
+  <Contact>
+    <Name>Sample Name 1</Name>
+    <MobileNumber>111111111</MobileNumber>
+    <email>sample@one.com</email>
+    <address>Sample Address 1</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 2</Name>
+    <MobileNumber>222222222</MobileNumber>
+    <email>sample@two.com</email>
+    <address>Sample Address 2</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 3</Name>
+    <MobileNumber>333333333</MobileNumber>
+    <email>sample@three.com</email>
+    <address>Sample Address 3</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 4</Name>
+    <MobileNumber>444444444</MobileNumber>
+    <email>sample@four.com</email>
+    <address>Sample Address 4</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 5</Name>
+    <MobileNumber>55555555555</MobileNumber>
+    <email>sample@five.com</email>
+    <address>Sample Address 5</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 6</Name>
+    <MobileNumber>666666666</MobileNumber>
+    <email>sample@six.com</email>
+    <address>Sample Address 6</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 7</Name>
+    <MobileNumber>777777777</MobileNumber>
+    <email>sample@seven.com</email>
+    <address>Sample Address 7</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 8</Name>
+    <MobileNumber>888888888</MobileNumber>
+    <email>sample@eight.com</email>
+    <address>Sample Address 8</address>
+  </Contact>
+  <Contact>
+    <Name>Sample Name 9</Name>
+    <MobileNumber>999999999</MobileNumber>
+    <email>sample@nine.com</email>
+    <address>Sample Address 9</address>
+  </Contact>
+</Contacts>

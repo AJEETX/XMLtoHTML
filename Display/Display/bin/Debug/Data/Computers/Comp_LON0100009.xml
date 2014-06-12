@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_LON0100009     </ComputerName>
+    <InventoryDate>2006-12-15T10:11:17+00:00</InventoryDate>
+    <Memory>1016</Memory>
+    <IPAddress>10.44.19.127</IPAddress>
+    <Macaddress>000BCD269491</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United Kingdom)</OperatingSystem>
+    <ScreenResolution>1280x1024 </ScreenResolution>
+    <TempDirSize>152</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product>Evo D510 SFF</Product>
+    <SerialNumber>6S32KN9ZJ3K4</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 2000 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>25156</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>25156</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>93315</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Drives>
+    <Volume>E</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>93315</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Drives>
+    <Volume>B</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>11933</FreeSpace>
+    <TotalSpace>34719</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>P</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>3977</FreeSpace>
+    <TotalSpace>34719</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>Y</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>75579</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>N: DFS (SAN replicated)</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv01\net097</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv01\net416</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\col010</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\NET093</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\net505</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv04\fst011</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

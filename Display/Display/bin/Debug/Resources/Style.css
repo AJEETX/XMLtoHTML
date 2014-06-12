@@ -1,0 +1,56 @@
+﻿input {
+	padding-left:3px;
+}	
+
+select {
+	font-size:1.1em;
+}
+
+.abstract {
+	padding:5px 10px 10px 20px;
+	color:#666;
+	font:normal 1em;
+	text-transform:none;
+	float:left;
+	width:100%;
+}
+
+.inputRow 
+{
+	background-color:#E0E0E0;
+}
+.resultHeader {	
+	color:Black;	
+	margin-bottom:2px;	
+	font-weight:bolder;
+}
+
+
+.resultDetailHeader {	
+	color:Black;	
+	margin-bottom:2px;	
+	font-weight:bolder;
+	background-color:#E0E0E0;
+}
+
+
+
+.resultDetailLabel
+{
+	font-size:smaller;
+	padding-left:5px;
+	font-weight:bolder;
+	color:#999;
+}
+
+.resultDetail
+{
+	font-size:smaller;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+
+
+
