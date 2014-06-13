@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_LON0100008     </ComputerName>
+    <InventoryDate>2006-12-14T09:25:43+00:00</InventoryDate>
+    <Memory>1016</Memory>
+    <IPAddress>10.44.31.11</IPAddress>
+    <Macaddress>000BCDF73430</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United Kingdom)</OperatingSystem>
+    <ScreenResolution>1280x1024 </ScreenResolution>
+    <TempDirSize>193</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP d530 SFF(DK907A)</Product>
+    <SerialNumber>CZC3340JVY</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 2400 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>27720</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label>System</Label>
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>27720</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label>System</Label>
+  </Drives>
+  <Drives>
+    <Volume>H</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>18854</FreeSpace>
+    <TotalSpace>52094</TotalSpace>
+    <Label>LonHelp01_E</Label>
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>99733</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv04\col036</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv04\net385</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\NET093</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>922760    </QNumber>
+    <Title>Cumulative Security Update for Internet Explorer for Windows XP (KB922760)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923689    </QNumber>
+    <Title>Security Update for Windows XP (KB923689)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>890830    </QNumber>
+    <Title>Windows Malicious Software Removal Tool - December 2006 (KB890830)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925454    </QNumber>
+    <Title>Cumulative Security Update for Internet Explorer for Windows XP (KB925454) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>929120    </QNumber>
+    <Title>Update for Windows XP (KB929120)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>928388    </QNumber>
+    <Title>Update for Windows XP (KB928388) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926255    </QNumber>
+    <Title>Security Update for Windows XP (KB926255) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923694    </QNumber>
+    <Title>Cumulative Security Update for Outlook Express for Windows XP (KB923694)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925398    </QNumber>
+    <Title>Security Update for Windows Media Player 6.4 (KB925398)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

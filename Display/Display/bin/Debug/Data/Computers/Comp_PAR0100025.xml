@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100025     </ComputerName>
+    <InventoryDate>2006-08-11T15:26:53+01:00</InventoryDate>
+    <Memory>1016</Memory>
+    <IPAddress>10.33.17.50</IPAddress>
+    <Macaddress>0016356079FE</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>1</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP Compaq dc7600 Small Form Factor</Product>
+    <SerialNumber>CZC6032P8V</SerialNumber>
+    <ProcessorVersion>Intel(R) Pentium(R) 4 CPU 3.00GHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>69072</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>P</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>25681</FreeSpace>
+    <TotalSpace>1535996</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>69072</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>E</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>9443</FreeSpace>
+    <TotalSpace>34726</TotalSpace>
+    <Label>DATA</Label>
+  </Drives>
+  <Drives>
+    <Volume>G</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>16981</FreeSpace>
+    <TotalSpace>20473</TotalSpace>
+    <Label>APPLICATION_WEB</Label>
+  </Drives>
+  <Drives>
+    <Volume>H</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>16981</FreeSpace>
+    <TotalSpace>20473</TotalSpace>
+    <Label>APPLICATION_WEB</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP271</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

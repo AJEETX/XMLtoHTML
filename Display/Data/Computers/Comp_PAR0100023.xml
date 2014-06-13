@@ -1,0 +1,196 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100023     </ComputerName>
+    <InventoryDate>2006-12-14T15:39:56+00:00</InventoryDate>
+    <Memory>1024</Memory>
+    <IPAddress>10.33.9.65</IPAddress>
+    <Macaddress>0016350F9BE5</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1280x1024 </ScreenResolution>
+    <TempDirSize>76</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP Compaq dc7600 Small Form Factor</Product>
+    <SerialNumber>CZC6032P97</SerialNumber>
+    <ProcessorVersion>Intel(R) Pentium(R) 4 CPU 3.00GHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12739</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12739</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>X</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>9747</FreeSpace>
+    <TotalSpace>71673</TotalSpace>
+    <Label>Cdroms</Label>
+  </Drives>
+  <Drives>
+    <Volume>E</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>F</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>I</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>137461</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>137461</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>P</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>62748</FreeSpace>
+    <TotalSpace>1740793</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>R</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>21414</FreeSpace>
+    <TotalSpace>34688</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>T</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>631249</FreeSpace>
+    <TotalSpace>980090</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>W</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>62748</FreeSpace>
+    <TotalSpace>1740793</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>Adobe PDF</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP245</Name>
+  </Printers>
+  <Printers>
+    <Name>\\parprt01\LP272</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP296</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\PN-S02</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>890830    </QNumber>
+    <Title>Windows Malicious Software Removal Tool - December 2006 (KB890830)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>929120    </QNumber>
+    <Title>Update for Windows XP (KB929120)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>928388    </QNumber>
+    <Title>Update for Windows XP (KB928388) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926255    </QNumber>
+    <Title>Security Update for Windows XP (KB926255) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923694    </QNumber>
+    <Title>Cumulative Security Update for Outlook Express for Windows XP (KB923694)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925398    </QNumber>
+    <Title>Security Update for Windows Media Player 6.4 (KB925398)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923689    </QNumber>
+    <Title>Security Update for Windows XP (KB923689)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

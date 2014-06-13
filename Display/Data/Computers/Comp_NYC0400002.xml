@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_NYC0400002     </ComputerName>
+    <InventoryDate>2006-05-05T04:13:37+01:00</InventoryDate>
+    <Memory>256</Memory>
+    <IPAddress>10.1.1.14</IPAddress>
+    <Macaddress>000C29DB9F5F</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United States)</OperatingSystem>
+    <ScreenResolution>640x480   </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>1</UserIsAdmin>
+    <Manufacturer>VMware, Inc.</Manufacturer>
+    <Product>VMware Virtual Platform</Product>
+    <SerialNumber>VMware-56 4d 80 e5 25 d3 b3 4f-c8 74 a2 5a 99 db 9f 5f</SerialNumber>
+    <ProcessorVersion />
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>941</FreeSpace>
+    <TotalSpace>4087</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>941</FreeSpace>
+    <TotalSpace>4087</TotalSpace>
+    <Label />
+  </Drives>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>Adobe PDF</Name>
+  </Printers>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

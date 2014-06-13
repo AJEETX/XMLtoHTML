@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100001     </ComputerName>
+    <InventoryDate>2006-05-17T15:03:17+01:00</InventoryDate>
+    <Memory>504</Memory>
+    <IPAddress>10.33.0.59</IPAddress>
+    <Macaddress>000BCD090B4E</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product>Evo D510 SFF</Product>
+    <SerialNumber>6S2CKN9ZG133</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 2000 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>15616</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>P</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>47737</FreeSpace>
+    <TotalSpace>1535996</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>15616</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

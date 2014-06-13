@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100028     </ComputerName>
+    <InventoryDate>2006-07-31T15:32:24+01:00</InventoryDate>
+    <Memory>256</Memory>
+    <IPAddress>10.33.9.121</IPAddress>
+    <Macaddress>0002A5CBF972</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>1</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product />
+    <SerialNumber>8150JYHZ02TZ</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 1700 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12935</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12935</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>Adobe PDF</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

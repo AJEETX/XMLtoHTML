@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_LON0100005     </ComputerName>
+    <InventoryDate>2006-06-14T08:18:07+01:00</InventoryDate>
+    <Memory>1016</Memory>
+    <IPAddress>10.44.94.128</IPAddress>
+    <Macaddress>000D9D555BD3</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United Kingdom)</OperatingSystem>
+    <ScreenResolution>1280x1024 </ScreenResolution>
+    <TempDirSize>47</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product />
+    <SerialNumber>6S2BKN9ZV2XW</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 2000 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>30904</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>30904</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>202702</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\loncopier03\DBAinfotecPHI173</Name>
+  </Printers>
+  <Printers>
+    <Name>\\loncopier03\infotec173 direct</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv04\net329</Name>
+  </Printers>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_LON0100027     </ComputerName>
+    <InventoryDate>2006-12-15T08:46:53+00:00</InventoryDate>
+    <Memory>1016</Memory>
+    <IPAddress>10.44.94.142</IPAddress>
+    <Macaddress>0016350B9424</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United Kingdom)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>59</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP Compaq dc7600 Small Form Factor</Product>
+    <SerialNumber>CZC6012L29</SerialNumber>
+    <ProcessorVersion>Intel(R) Pentium(R) 4 CPU 3.00GHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>65628</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>65628</FreeSpace>
+    <TotalSpace>76309</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>101988</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>HP LaserJet 1200 Series PCL</Name>
+  </Printers>
+  <Printers>
+    <Name>HP LaserJet 1200 Series PCL 5e</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv01\Col003</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\net341</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv04\net455</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

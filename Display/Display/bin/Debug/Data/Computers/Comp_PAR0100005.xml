@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100005     </ComputerName>
+    <InventoryDate>2006-09-06T15:48:06+01:00</InventoryDate>
+    <Memory>256</Memory>
+    <IPAddress>10.33.0.77</IPAddress>
+    <Macaddress>00080233B848</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>1</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product>Evo D500</Product>
+    <SerialNumber>8213JYHZ10WD</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 1700 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12789</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>27683</FreeSpace>
+    <TotalSpace>38162</TotalSpace>
+    <Label>USB-40Gb</Label>
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>12789</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

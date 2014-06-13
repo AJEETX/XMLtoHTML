@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_LON0100003     </ComputerName>
+    <InventoryDate>2006-12-14T08:45:44+00:00</InventoryDate>
+    <Memory>504</Memory>
+    <IPAddress>10.44.94.140</IPAddress>
+    <Macaddress>000D9D494BB8</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), English (United Kingdom)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>214</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP d530 SFF(DK907A)</Product>
+    <SerialNumber>CZC33517HY</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 2400 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>25601</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>82</TotalSpace>
+    <Label>Sep 03 2006</Label>
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>25601</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>B</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>11936</FreeSpace>
+    <TotalSpace>34719</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>L</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>3987</FreeSpace>
+    <TotalSpace>34719</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>99713</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>M: General (SAN  replicated)</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv01\Col003</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv01.freshfieldsbruckhaus.com\Col003</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv02\Net115</Name>
+  </Printers>
+  <Printers>
+    <Name>\\lonpsrv03\NET093</Name>
+  </Printers>
+  <Printers>
+    <Name>\\LONPSRV04\net455</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

@@ -1,0 +1,138 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100147     </ComputerName>
+    <InventoryDate>2006-12-14T09:46:57+00:00</InventoryDate>
+    <Memory>504</Memory>
+    <IPAddress />
+    <Macaddress>PAR0100147  </Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <Product>HP Compaq dc7100 SFF(PE226ET)</Product>
+    <SerialNumber>CZC44508GJ</SerialNumber>
+    <ProcessorVersion>Intel(R) Pentium(R) 4 CPU 2.80GHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>31583</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>31583</FreeSpace>
+    <TotalSpace>38154</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>137461</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>T</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>631689</FreeSpace>
+    <TotalSpace>980090</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>W</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>72611</FreeSpace>
+    <TotalSpace>1740793</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>X</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>9747</FreeSpace>
+    <TotalSpace>71673</TotalSpace>
+    <Label>Cdroms</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>922760    </QNumber>
+    <Title>Cumulative Security Update for Internet Explorer for Windows XP (KB922760)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925398    </QNumber>
+    <Title>Security Update for Windows Media Player 6.4 (KB925398)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923689    </QNumber>
+    <Title>Security Update for Windows XP (KB923689)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>890830    </QNumber>
+    <Title>Windows Malicious Software Removal Tool - December 2006 (KB890830)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925454    </QNumber>
+    <Title>Cumulative Security Update for Internet Explorer for Windows XP (KB925454) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>929120    </QNumber>
+    <Title>Update for Windows XP (KB929120)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>928388    </QNumber>
+    <Title>Update for Windows XP (KB928388) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926255    </QNumber>
+    <Title>Security Update for Windows XP (KB926255) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923694    </QNumber>
+    <Title>Cumulative Security Update for Outlook Express for Windows XP (KB923694)</Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>

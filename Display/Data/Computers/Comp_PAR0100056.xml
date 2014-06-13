@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="yes"?>
+<Overview>
+  <Machine>
+    <ComputerName>Comp_PAR0100056     </ComputerName>
+    <InventoryDate>2006-12-15T10:07:55+00:00</InventoryDate>
+    <Memory>512</Memory>
+    <IPAddress>10.33.12.84</IPAddress>
+    <Macaddress>00080233BA63</Macaddress>
+    <OperatingSystem>Windows XP Professional, Version 5.1, Service Pack 2 (Build 2600), French (France)</OperatingSystem>
+    <ScreenResolution>1024x768  </ScreenResolution>
+    <TempDirSize>0</TempDirSize>
+    <UserIsAdmin>0</UserIsAdmin>
+    <Manufacturer>Compaq</Manufacturer>
+    <Product>Evo D500</Product>
+    <SerialNumber>8213JYHZ10W8</SerialNumber>
+    <ProcessorVersion>Pentium(R) 4 processor 1700 MHz</ProcessorVersion>
+  </Machine>
+  <Drives>
+    <Volume>A</Volume>
+    <DriveType>1</DriveType>
+    <DriveTypeDesc>Removable</DriveTypeDesc>
+    <DriveType1>1</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>C</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>13274</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>D</Volume>
+    <DriveType>2</DriveType>
+    <DriveTypeDesc>CD/DVD</DriveTypeDesc>
+    <DriveType1>2</DriveType1>
+    <FreeSpace>0</FreeSpace>
+    <TotalSpace>0</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>Z</Volume>
+    <DriveType>0</DriveType>
+    <DriveTypeDesc>Hard Disk</DriveTypeDesc>
+    <DriveType1>0</DriveType1>
+    <FreeSpace>13274</FreeSpace>
+    <TotalSpace>19085</TotalSpace>
+    <Label />
+  </Drives>
+  <Drives>
+    <Volume>M</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>137462</FreeSpace>
+    <TotalSpace>511993</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>P</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>61788</FreeSpace>
+    <TotalSpace>1740793</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>T</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>630679</FreeSpace>
+    <TotalSpace>980090</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>W</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>61788</FreeSpace>
+    <TotalSpace>1740793</TotalSpace>
+    <Label>Data</Label>
+  </Drives>
+  <Drives>
+    <Volume>X</Volume>
+    <DriveType>3</DriveType>
+    <DriveTypeDesc>Network</DriveTypeDesc>
+    <DriveType1>3</DriveType1>
+    <FreeSpace>9747</FreeSpace>
+    <TotalSpace>71673</TotalSpace>
+    <Label>Cdroms</Label>
+  </Drives>
+  <Printers>
+    <Name>PDF-XChange 3.0</Name>
+  </Printers>
+  <Printers>
+    <Name>Microsoft Office Document Image Writer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G3 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>Tiff Fax G4 TurboBits Printer</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP276</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP280</Name>
+  </Printers>
+  <Printers>
+    <Name>\\PARPRT01\LP298</Name>
+  </Printers>
+  <MissingPatches>
+    <QNumber>913580    </QNumber>
+    <Title>Security Update for Windows XP (KB913580)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923694    </QNumber>
+    <Title>Cumulative Security Update for Outlook Express for Windows XP (KB923694)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925398    </QNumber>
+    <Title>Security Update for Windows Media Player 6.4 (KB925398)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923689    </QNumber>
+    <Title>Security Update for Windows XP (KB923689)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>890830    </QNumber>
+    <Title>Windows Malicious Software Removal Tool - December 2006 (KB890830)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926874    </QNumber>
+    <Title>Windows Internet Explorer 7.0 for Windows XP</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925850    </QNumber>
+    <Title>Windows Media Player 11</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925876    </QNumber>
+    <Title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>923980    </QNumber>
+    <Title>Security Update for Windows XP (KB923980)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>925454    </QNumber>
+    <Title>Cumulative Security Update for Internet Explorer for Windows XP (KB925454) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>929120    </QNumber>
+    <Title>Update for Windows XP (KB929120)</Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>928388    </QNumber>
+    <Title>Update for Windows XP (KB928388) </Title>
+  </MissingPatches>
+  <MissingPatches>
+    <QNumber>926255    </QNumber>
+    <Title>Security Update for Windows XP (KB926255) </Title>
+  </MissingPatches>
+  <Assigned>
+    <AssignedCount>1</AssignedCount>
+  </Assigned>
+</Overview>
