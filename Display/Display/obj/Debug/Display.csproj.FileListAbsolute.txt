@@ -16,3 +16,6 @@ C:\Repos\Display\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
 C:\Repos\Display\Display\obj\Debug\Display.Form1.resources
 C:\Repos\Display\Display\obj\Debug\Display.Properties.Resources.resources
 C:\Repos\Display\Display\obj\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\u_atiwari\XMLtoHTML\Display\Display\bin\Debug\Display.exe.config
+C:\Users\u_atiwari\XMLtoHTML\Display\Display\obj\Debug\Display.exe
+C:\Users\u_atiwari\XMLtoHTML\Display\Display\obj\Debug\Display.pdb
